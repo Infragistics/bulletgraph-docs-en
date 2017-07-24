@@ -758,7 +758,7 @@ image::images/BulletGraph_Overview_18.png[]
 
 === Requirements summary
 
-The  _{BulletGraphName}_   control is a {PlatformName} control and a part from the  pick:[android="jars"]  pick:[wpf,win-universal,win-forms="assembly"] , containing the control itself, it depends on several other  pick:[android="jars"]  pick:[wpf,win-universal,win-forms="assembly"]   pick:[wpf,win-universal="such as {ApiPlatform}v{ProductVersion}.dll and {ApiPlatform}DataVisualization{ApiVersion}.dll."]   pick:[wpf,win-universal,win-forms=""]  Provided the required  pick:[android="jars"]  pick:[wpf,win-universal,win-forms="assembly"]  are loaded correctly, a declaration with the Infragistics XML namespace is needed in the {PlatformName} component where the control is used.
+The  _{BulletGraphName}_   control is a {PlatformName} control and a part from the  pick:[android="jars"]  pick:[wpf,win-universal,win-forms="assembly"] , containing the control itself, it depends on several other  pick:[android="jars"]  pick:[wpf,win-universal,win-forms="assembly"]   pick:[wpf,win-universal="such as {ApiPlatform}{ApiVersion}.dll and {ApiPlatform}DataVisualization{ApiVersion}.dll."]   pick:[wpf,win-universal,win-forms=""]  Provided the required  pick:[android="jars"]  pick:[wpf,win-universal,win-forms="assembly"]  are loaded correctly, a declaration with the Infragistics XML namespace is needed in the {PlatformName} component where the control is used.
 
 In order for the bullet graph to display the performance bar, the link:{BulletGraphLink}.{BulletGraphName}{ApiProp}value.html[Value] property has to be set.
 
